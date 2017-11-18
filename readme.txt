@@ -1,7 +1,7 @@
-2016-03, app_installs, 683
-2016-01, favorites, 788
-2015-12, app_installs, 982, clicks, 525
-2015-11, impressions, 245
-2015-08, clicks, 635
+Hello Guys!
+I just created this file using Git command line interface!
+The tutorial I refered to learn was : http://jlord.us/git-it/index.html
 
-Hey this is a changed line
+So if anyone of you want to learn more about it, you just need to follow the quick instructions and you get up and running.
+
+Sweet!
